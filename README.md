@@ -3,7 +3,7 @@
 <!--
 **ZielinskiMilosz/ZielinskiMilosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Imię: Miłosz
+Imię: Miłosz
 Nazwisko: Zieliński 
 Wiek: 18 
 Kraj pochodzenia: Polska
